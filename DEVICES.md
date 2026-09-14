@@ -34,6 +34,7 @@
 - ElectriQ MY130 oil radiator
 - Emke Orbrad PTR towel radiator
 - Essentials Smart Home electric bathroom heater
+- ETA 2625 Sole Smart panel heater
 - eTowel Mini04 plus towel rail thermostat
 - Eurom Alutherm 1000,1500,2000,2500 heaters
 - Eurom Hot-Shot 2000 heaters
@@ -414,6 +415,7 @@
 - Globe ceiling fans with RGBCW lights (with and without presets)
 - Goldair GCPF315 fan
 - Goldair Platinum tower fan (2 variants)
+- Hinkley Chisel 52" ceiling fan
 - Hiper T3 bladeless fan
 - Hoenofly Smart Amari ceiling fan with light
 - Hoenofly Smart Wood low profile ceiling fan with lights
@@ -771,6 +773,7 @@
 - Aimiler 11kW 16A and 40A EV chargers
 - Ampbolt Level 1/2 portable EV charger
 - AmperePoint Q series EV chargers
+- Arlec/Deta EV200D-HA EV charger
 - Conow CBE2000 Pro solar battery
 - dé Wall EV charger (3-phase 22Kw)
 - Demuda 4048/6048 MPPT solar charge controller
@@ -953,6 +956,7 @@ of device.
 - Deltaco LED Strip (SH-LW5M)
 - Deta/Arlec motion sensor lights (DET100HA/DET102HA/MAL315HA)
 - Deta 6910HA series2 dimmer switch
+- Dewenwils low voltage lighting transformer (3 switch)
 - Dim2Warm G95 Gold 1800-2700K CCT lightbulb
 - Dream of You dual dimmable lamp
 - Dreamegg Nite 1 baby sound machine
@@ -1119,6 +1123,7 @@ of device.
 - Realme TechLife vacuum cleaner
 - Rinkmo D2 vacuum cleaner
 - Rowenta X-plorer 75 S vacuum cleaner
+- Siguro TURBOVac Navigator vacuum cleaner
 - Tefal X-plorer serie 75 animal vacuum
 - Tesvor S6 vacuum cleaner with mop
 - TTEC Robi Pro vacuum cleaner
@@ -1188,6 +1193,7 @@ port and password.
 - HomeMate PTZ indoor camera
 - Kerui 200W camera
 - Kerui JS-P162 300W camera
+- Ledvance floodlight camera with and without PTZ
 - LSC Smart Connect dual band outdoor camera
 - LSC Smart Connect Outdoor PTZ camera
 - LSC Smart Connect PTZ camera
@@ -1243,6 +1249,7 @@ port and password.
 - Frienhund ACF180W-A dual camera pet feeder
 - Fukumaru AF01-W pet feeder
 - FurPipi PF05 pet feeder
+- Geeni WP005 pet treat camera
 - Hapaw pet fountain
 - Happy Llama Tech SoCool pet feeder
 - Happy Paws CoreBox litter box
@@ -1437,7 +1444,7 @@ port and password.
 - SNT957W-DE CBU temperature and humidity sensor
 - Sodial probe thermometer
 - Speaka SP-TVCM-510 TV mount
-- Steigen Solar Pro clothes drying rack
+- Steigen Solar Pro and Solar Ultra clothes drying racks
 - Sunbeam dual heated mattress pad
 - Sunbeam single heated mattress pad
 - Sundream LC-series salt pool chlorinator (rebranded as Poolomio)
